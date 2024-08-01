@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "pkg": "^5.8.1",
+    "puppeteer": "^22.15.0"
+  },
+  "bin": "google.js"
+}
